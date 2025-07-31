@@ -1,1 +1,23 @@
-{"temporary": true}
+{
+  "version": "1.4.9",
+  "schema_version": "1.0.0",
+  "data": [
+    {
+      "id": "archtb",
+      "schema_version": "1.0.0",
+      "name": "ArchTB",
+      "type": "add-on",
+      "tagline": "Architectural tools and workflow optimization for Blender",
+      "version": "1.4.9",
+      "website": "https://archtb.art",
+      "maintainer": "ArchTB <patricio@archtb.art>",
+      "license": ["SPDX:GPL-3.0-or-later"],
+      "copyright": ["2024 ArchTB"],
+      "tags": ["3D View", "Architecture", "Modeling", "Workflow", "Materials"],
+      "blender_version_min": "4.3.2",
+      "archive_url": "https://github.com/Alastorpray/ArchTB/releases/download/v1.4.9/archtb-1.4.9.zip",
+      "archive_hash": "sha256:b0cdc8c2a309d8dc7641491be54f6ee5b1f5386f23ccc7dfcdcd7a17a213e33a",
+      "archive_size": 40439
+    }
+  ]
+}
